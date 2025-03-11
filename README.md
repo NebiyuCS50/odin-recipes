@@ -1,1 +1,1 @@
-# odin-recipes
+The focus of this project is building a website about a recipe that help us to create food in a variety of ways. For now we will be using an html only but further on we will use different languages to style it.
