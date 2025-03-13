@@ -1,0 +1,14 @@
+.hov{
+    background-color: greenyellow;
+    font-family: Verdana Tahoma;
+    text-decoration: underline;
+    display: block;
+    justify-content: center;
+}
+.hov.ind{
+    margin:5px;
+}
+.cl-1{
+    font-family: Verdana Tahoma;
+    font-weight: 700;
+}
