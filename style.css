@@ -1,14 +1,29 @@
-.hov{
-    background-color: greenyellow;
-    font-family: Verdana Tahoma;
-    text-decoration: underline;
-    display: block;
-    justify-content: center;
+*{
+    box-sizing: border-box;
 }
-.hov.ind{
-    margin:5px;
+.h-1{
+    text-align: center;
+    margin-top: 200px;
 }
-.cl-1{
-    font-family: Verdana Tahoma;
-    font-weight: 700;
+li{
+    display: inline-block;
+    margin: 25px;
+}
+ul{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+button{
+    border: 2px solid skyblue;
+    padding: 18px;
+    background-color: white;
+    border-radius: 60px;
+}
+button:hover{
+    border: 2px solid rebeccapurple;
+    background-color: rebeccapurple;
+    color: white;
 }
