@@ -1,15 +1,28 @@
 *{
     box-sizing: border-box;
-    background-color: antiquewhite;
+    background-color: beige;
+    
 }
 .container{
+    border-radius: 10%;
+    width: 800px;
     padding: 70px 0px;
     text-align: center;
-    margin: 100px 0px;
-    background-color: antiquewhite;
+    margin: 40px auto;
+    background-image: linear-gradient(to bottom right, skyblue, rebeccapurple);
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+div,
+img{
+    display: block;
+    margin: 0 auto;
+}
+img{
+    border-radius: 2%;
+    border: 2px solid antiquewhite
 }
 h1{
-    background-color: antiquewhite;
+    background-color:aliceblue;
 }
 ul{
     display: inline-block;
